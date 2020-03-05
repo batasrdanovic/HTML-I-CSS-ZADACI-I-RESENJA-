@@ -1,0 +1,13 @@
+body{
+    background-color: green;
+}
+p{
+    color:          #0000ff; 
+    font-family:    arial;
+    font-size:      15px;
+}
+h1{
+   color:          33ff33;
+   font-family:    italic;
+   font-size:      30px;
+  }

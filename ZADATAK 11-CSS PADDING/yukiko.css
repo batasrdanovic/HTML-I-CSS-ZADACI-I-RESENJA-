@@ -1,0 +1,8 @@
+h1{ 
+    border-style:     double;
+    padding:          160px;
+}
+p{
+    border-style:     groove;
+    padding:          80px;
+}

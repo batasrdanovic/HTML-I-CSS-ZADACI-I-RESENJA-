@@ -1,0 +1,14 @@
+body{ 
+      background-image:          url("slika leptira.jpg");
+      background-attachment:     fixed;
+}
+h1{
+      font-size:                 25px;
+      color:                     aqua;
+    
+}  
+p{
+      font-size:                 25px;
+      color:                     lightcoral;
+       
+}

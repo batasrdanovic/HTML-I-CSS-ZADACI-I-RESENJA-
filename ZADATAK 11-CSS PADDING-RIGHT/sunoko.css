@@ -1,0 +1,8 @@
+h1{ 
+    border-style:        double;
+    padding-right:       50px;
+}
+p{
+    border-style:        solid;
+    padding-right:       100px;
+}

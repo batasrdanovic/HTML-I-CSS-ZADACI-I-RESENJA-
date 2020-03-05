@@ -1,0 +1,12 @@
+p{
+    border-style: double;
+    border-width: 3px;
+    border-color: 0,0,204;
+    margin:       40px;
+}
+h1{ 
+    border-style: double;
+    border-width: 3px;
+    border-color: 255,51,153;
+    margin:       15px;
+}

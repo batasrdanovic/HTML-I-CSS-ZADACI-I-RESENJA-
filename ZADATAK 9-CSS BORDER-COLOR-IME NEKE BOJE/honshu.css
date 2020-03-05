@@ -1,0 +1,12 @@
+body{
+    border-style: double;
+    border-color: violet;
+}
+p{
+    border-style: dotted;
+    border-color: blue;
+}
+h1{   
+    border-style: solid;
+    border-color: green;
+}

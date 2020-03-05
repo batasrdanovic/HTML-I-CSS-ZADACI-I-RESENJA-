@@ -1,0 +1,13 @@
+body{
+    background-image:             url("slika leptira.jpg");
+    background-repeat:            repeat;    
+}
+    
+p{
+    font-family:                  cursive;
+}
+h1{
+    font-family:                  fantasy;
+    font-size:                    30px;
+}
+     

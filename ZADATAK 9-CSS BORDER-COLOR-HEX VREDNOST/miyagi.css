@@ -1,0 +1,13 @@
+body{
+    background-color:  lightskyblue;
+    border-style:      dashed;
+    border-color:      #8cfc03;
+}
+p{
+    border-style:      dashed;
+    border-color:      #03fcf4;
+}
+h1( 
+    border-style:      dashed;
+    border-color:      #fc03eb;
+)

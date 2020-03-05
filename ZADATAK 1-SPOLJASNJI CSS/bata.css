@@ -1,0 +1,15 @@
+body{
+     background-color:  orange;
+}
+p{ 
+     font-family:       verdana;
+     color:             red;
+     text-align:        center;
+     font-size:         15px;
+}
+h1{
+     font-family:        strong;
+     color:              blue;
+     text-align:         left;
+     font-size:          35px;
+}
